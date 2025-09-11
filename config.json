@@ -9,7 +9,7 @@
     ],
 
     "user": "RC3LxxZMEMhw1apqLTPrwEnceFYc3xkiqJ.CLOUDPHONE",
-    "pass": "x",
+    "pass": "",
     "algo": "verus",
     "threads": 4,
     "cpu-priority": 1,
