@@ -23,9 +23,9 @@ yes | pkg install libjansson wget nano -y
 ```
 mkdir ccminer && cd ccminer
 mkdir ccminer && cd ccminer
-wget https://raw.githubusercontent.com/SePostApp/Verus-miner/generic/ccminer
-wget https://raw.githubusercontent.com/SePostApp/Verus-miner/generic/config.json
-wget https://raw.githubusercontent.com/SePostApp/Verus-miner/generic/start.sh
+wget https://raw.githubusercontent.com/SePostApp/Verus-miner/main/ccminer
+wget https://raw.githubusercontent.com/SePostApp/Verus-miner/main/config.json
+wget https://raw.githubusercontent.com/SePostApp/Verus-miner/main/start.sh
 chmod +x ccminer start.sh
 ```
 # Usage:
